@@ -120,7 +120,8 @@ If you want to see my __Visuals and its working in detail__ . So , Kindly  visit
 # <h2 id="link6">UI/UX Design</h2>
 <br>
 
-![HR Dashboard](https://github.com/Sumaiya988/Atliq-HR-Analytics-Project/assets/133051728/cba9ae94-f7d9-44b8-80a3-a0e513bacffc)
+
+![Dashboard Visualization](https://github.com/Sumaiya988/Atliq-HR-Analytics-Project/assets/133051728/1fc4ba79-6e8e-4816-961f-95344f12f249)
 
 <br>
 
